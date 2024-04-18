@@ -9,7 +9,7 @@ jauh dalam belajar codeigniter.</p>
 komponen utama menjadi tiga komponen yaitu model, view dan 
 controller.</p>
  
-                <ol type=”a”>
+                <ol type="a">
                 <li>Model</li>
 <p align='justify'>Model adalah kelas yang merepresentasikan atau 
 memodelkan tipe data yang akan digunakan oleh aplikasi. Model juga 
